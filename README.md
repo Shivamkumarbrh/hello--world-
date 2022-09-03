@@ -1,4 +1,2 @@
 #Hello world
-This is create for testing only.
-This is a practice. You can find later all the concept.
-I hope it works.
+This repository has combination of HTML and CSS
